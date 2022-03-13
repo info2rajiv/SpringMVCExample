@@ -4,6 +4,8 @@ package com.dineshonjava.bean;
  * @author Dinesh Rajput
  *
  */
+
+
 public class EmployeeBean {
 	private Integer id;
 	private String name;
